@@ -1,3 +1,0 @@
-# PotionBundles{
-  "item.potionbundles.potion_bundle": "%s (Связка)"
-}
